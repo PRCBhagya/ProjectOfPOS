@@ -1,0 +1,12 @@
+E:\NSBM\3 Year\ADBMS\Assignment\CPosSystem_Software\CPosSystem_Software\bin\Debug\CPosSystem_Software.exe.config
+E:\NSBM\3 Year\ADBMS\Assignment\CPosSystem_Software\CPosSystem_Software\bin\Debug\CPosSystem_Software.exe
+E:\NSBM\3 Year\ADBMS\Assignment\CPosSystem_Software\CPosSystem_Software\bin\Debug\CPosSystem_Software.pdb
+E:\NSBM\3 Year\ADBMS\Assignment\CPosSystem_Software\CPosSystem_Software\obj\Debug\CPosSystem_Software.csprojAssemblyReference.cache
+E:\NSBM\3 Year\ADBMS\Assignment\CPosSystem_Software\CPosSystem_Software\obj\Debug\CPosSystem_Software.Properties.Resources.resources
+E:\NSBM\3 Year\ADBMS\Assignment\CPosSystem_Software\CPosSystem_Software\obj\Debug\CPosSystem_Software.csproj.GenerateResource.cache
+E:\NSBM\3 Year\ADBMS\Assignment\CPosSystem_Software\CPosSystem_Software\obj\Debug\CPosSystem_Software.csproj.CoreCompileInputs.cache
+E:\NSBM\3 Year\ADBMS\Assignment\CPosSystem_Software\CPosSystem_Software\obj\Debug\CPosSystem_Software.exe
+E:\NSBM\3 Year\ADBMS\Assignment\CPosSystem_Software\CPosSystem_Software\obj\Debug\CPosSystem_Software.pdb
+E:\NSBM\3 Year\ADBMS\Assignment\CPosSystem_Software\CPosSystem_Software\obj\Debug\CPosSystem_Software.login.resources
+E:\NSBM\3 Year\ADBMS\Assignment\CPosSystem_Software\CPosSystem_Software\obj\Debug\CPosSystem_Software.Dashboard_Page.resources
+E:\NSBM\3 Year\ADBMS\Assignment\CPosSystem_Software\CPosSystem_Software\obj\Debug\CPosSystem_Software.Invoice_Page.resources
